@@ -1,0 +1,219 @@
+number,region,subregion,Restriction
+1,alabama,Autauga,Yes
+2,alabama,Baldwin,Yes
+3,alabama,Calhoun,Yes
+4,alabama,Cherokee,Yes
+5,alabama,Chilton,Yes
+6,alabama,Colbert,Yes
+7,alabama,Cullman,Yes
+8,alabama,De Kalb,Yes
+9,alabama,Elmore,Yes
+10,alabama,Etowah,Yes
+11,alabama,Franklin,Yes
+12,alabama,Jackson,Yes
+13,alabama,Lawrence,Yes
+14,alabama,Madison,Yes
+15,alabama,Marshall,Yes
+16,alabama,Morgan,Yes
+17,alabama,Winston,Yes
+18,arkansas,Clay,Yes
+19,arkansas,Craighead,Yes
+20,arkansas,Crittenden,Yes
+21,arkansas,Cross,Yes
+22,arkansas,Jackson,Yes
+23,arkansas,Poinsett,Yes
+24,arkansas,Prairie,Yes
+25,arkansas,Woodruff,Yes
+26,arizona,Cochise,Yes
+27,arizona,Graham,Yes
+28,delaware,Sussex,Yes
+29,florida,Calhoun,Yes
+30,florida,Jackson,Yes
+31,florida,Washington,Yes
+32,georgia,Decatur,Yes
+33,georgia,Dooly,Yes
+34,georgia,Floyd,Yes
+35,georgia,Mitchell,Yes
+36,georgia,Seminole,Yes
+37,georgia,Worth,Yes
+38,iowa,Allamakee,Yes
+39,iowa,Clayton,Yes
+40,iowa,Delaware,Yes
+41,iowa,Dubuque,Yes
+42,iowa,Hardin,Yes
+43,iowa,Jackson,Yes
+44,illinois,Bureau,Yes
+45,illinois,Cass,Yes
+46,illinois,Champaign,Yes
+47,illinois,Clinton,Yes
+48,illinois,Fayette,Yes
+49,illinois,Ford,Yes
+50,illinois,Fulton,Yes
+51,illinois,Greene,Yes
+52,illinois,Iroquois,Yes
+53,illinois,Jersey,Yes
+54,illinois,Jo Daviess,Yes
+55,illinois,LaSalle,Yes
+56,illinois,Lee,Yes
+57,illinois,Madison,Yes
+58,illinois,Marshall,Yes
+59,illinois,Mason,Yes
+60,illinois,McHenry,Yes
+61,illinois,Morgan,Yes
+62,illinois,Ogle,Yes
+63,illinois,Peoria,Yes
+64,illinois,Pike,Yes
+65,illinois,Randolph,Yes
+66,illinois,Schuyler,Yes
+67,illinois,Scott,Yes
+68,illinois,St. Clair,Yes
+69,illinois,Tazewell,Yes
+70,illinois,Will,Yes
+71,illinois,Winnebago,Yes
+72,illinois,Woodford,Yes
+73,indiana,Harrison,Yes
+74,indiana,Posey,Yes
+75,kansas,Anderson,Yes
+76,kentucky,Bullitt,Yes
+77,kentucky,Calloway,Yes
+78,kentucky,Fleming,Yes
+79,kentucky,Harrison,Yes
+80,kentucky,Henry,Yes
+81,kentucky,Jefferson,Yes
+82,kentucky,Meade,Yes
+83,minnesota,Brown,Yes
+84,minnesota,Clay,Yes
+85,minnesota,Cottonwood,Yes
+86,minnesota,Dakota,Yes
+87,minnesota,Dodge,Yes
+88,minnesota,Fillmore,Yes
+89,minnesota,Goodhue,Yes
+90,minnesota,Jackson,Yes
+91,minnesota,Martin,Yes
+92,minnesota,Mower,Yes
+93,minnesota,Nobles,Yes
+94,minnesota,Olmsted,Yes
+95,minnesota,Polk,Yes
+96,minnesota,Pope,Yes
+97,minnesota,Redwood,Yes
+98,minnesota,Renville,Yes
+99,minnesota,Rice,Yes
+100,minnesota,Rock,Yes
+101,minnesota,Steele,Yes
+102,missouri,Barton,Yes
+103,missouri,Cape Girardeau,Yes
+104,missouri,Dade,Yes
+105,missouri,Dunklin,Yes
+106,missouri,Harrison,Yes
+107,missouri,Henry,Yes
+108,missouri,Jasper,Yes
+109,missouri,Johnson,Yes
+110,missouri,Lawrence,Yes
+111,missouri,Lincoln,Yes
+112,missouri,Mississippi,Yes
+113,missouri,Pettis,Yes
+114,missouri,Pike,Yes
+115,missouri,St. Charles,Yes
+116,missouri,Vernon,Yes
+117,mississippi,Bolivar,Yes
+118,mississippi,Coahoma,Yes
+119,mississippi,Leflore,Yes
+120,mississippi,Sunflower,Yes
+121,mississippi,Washington,Yes
+122,north carolina,Anson,Yes
+123,north carolina,Beaufort,Yes
+124,north carolina,Bladen,Yes
+125,north carolina,Brunswick,Yes
+126,north carolina,Burke,Yes
+127,north carolina,Catawba,Yes
+128,north carolina,Cleveland,Yes
+129,north carolina,Columbus,Yes
+130,north carolina,Craven,Yes
+131,north carolina,Cumberland,Yes
+132,north carolina,Davidson,Yes
+133,north carolina,Forsyth,Yes
+134,north carolina,Harnett,Yes
+135,north carolina,Henderson,Yes
+136,north carolina,Hyde,Yes
+137,north carolina,Iredell,Yes
+138,north carolina,Johnston,Yes
+139,north carolina,Lenoir,Yes
+140,north carolina,Lincoln,Yes
+141,north carolina,McDowell,Yes
+142,north carolina,Nash,Yes
+143,north carolina,Onslow,Yes
+144,north carolina,Pender,Yes
+145,north carolina,Randolph,Yes
+146,north carolina,Robeson,Yes
+147,north carolina,Rowan,Yes
+148,north carolina,Sampson,Yes
+149,north carolina,Stanly,Yes
+150,north carolina,Stokes,Yes
+151,north carolina,Surry,Yes
+152,north carolina,Union,Yes
+153,north carolina,Wilson,Yes
+154,nebraska,Buffalo,Yes
+155,nebraska,Custer,Yes
+156,nebraska,Kearney,Yes
+157,nebraska,Lancaster,Yes
+158,nebraska,Lincoln,Yes
+159,nebraska,Phelps,Yes
+160,nebraska,Saunders,Yes
+161,new jersey,Burlington,Yes
+162,new jersey,Monmouth,Yes
+163,new jersey,Ocean,Yes
+164,new jersey,Salem,Yes
+165,new mexico,Chaves,Yes
+166,new mexico,Do–a Ana,Yes
+167,new mexico,Eddy,Yes
+168,new york,Genesee,Yes
+169,ohio,Erie,Yes
+170,ohio,Ottawa,Yes
+171,south carolina,Darlington,Yes
+172,south carolina,Florence,Yes
+173,south carolina,Horry,Yes
+174,south carolina,Orangeburg,Yes
+175,tennessee,Chester,Yes
+176,tennessee,Davidson,Yes
+177,tennessee,Franklin,Yes
+178,tennessee,Grundy,Yes
+179,tennessee,Madison,Yes
+180,tennessee,Maury,Yes
+181,tennessee,McNairy,Yes
+182,tennessee,Montgomery,Yes
+183,tennessee,Polk,Yes
+184,tennessee,Rutherford,Yes
+185,tennessee,White,Yes
+186,tennessee,Wilson,Yes
+187,texas,Cameron,Yes
+188,texas,Coke,Yes
+189,texas,El Paso,Yes
+190,texas,Fort Bend,Yes
+191,texas,Hays,Yes
+192,texas,Hidalgo,Yes
+193,texas,Jim Wells,Yes
+194,texas,Kleberg,Yes
+195,texas,Medina,Yes
+196,texas,Mitchell,Yes
+197,texas,Nueces,Yes
+198,texas,Pecos,Yes
+199,texas,Refugio,Yes
+200,texas,Robertson,Yes
+201,texas,Runnels,Yes
+202,texas,Starr,Yes
+203,texas,Uvalde,Yes
+204,texas,Willacy,Yes
+205,texas,Williamson,Yes
+206,wisconsin,Brown,Yes
+207,wisconsin,Columbia,Yes
+208,wisconsin,Dane,Yes
+209,wisconsin,Grant,Yes
+210,wisconsin,Green,Yes
+211,wisconsin,Monroe,Yes
+212,wisconsin,Pierce,Yes
+213,wisconsin,Portage,Yes
+214,wisconsin,Richland,Yes
+215,wisconsin,Rock,Yes
+216,wisconsin,Sauk,Yes
+217,wisconsin,Vernon,Yes
+218,wisconsin,Waushara,Yes
