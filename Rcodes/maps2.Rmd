@@ -9,22 +9,10 @@ output: pdf_document
 
 ```{r include=FALSE}
 library(tidyverse)
-library(ggplot2)
-library(knitr)
-library(kableExtra)
-library(scales)
 library(ggthemes)
-library(usmap)
-library(ggmap)
 library(ggrepel)
 library(maps)
-library(grid)
-library(mapdata)
-library(maptools)
-library(stringr)
-library(dplyr)
 library(ggsn)
-library(choroplethr)
 ```
 
 #Wisconsin map
@@ -50,7 +38,7 @@ base + theme_nothing()
 
 
 ```{r}
-Data1=read_csv("map2.csv")
+Data1=read_csv("data/map2.csv")
 
 Map <- dplyr::full_join(Data1, county , by = "subregion")
 ```
