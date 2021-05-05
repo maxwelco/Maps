@@ -67,7 +67,7 @@ ggplot(data = world) +
 
 ggplot(data = world) +
     geom_sf() +
-    coord_sf(crs = st_crs(3035))
+    coord_sf(crs = st_crs(3035)) 
 ```
 
 
