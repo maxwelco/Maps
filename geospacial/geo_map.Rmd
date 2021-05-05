@@ -5,6 +5,8 @@ date: "5/1/2021"
 output: html_document
 ---
 
+https://r-spatial.org/r/2018/10/25/ggplot2-sf.html
+
 
 ```{r warning =FALSE}
 library(tidyverse)
@@ -130,7 +132,6 @@ ggsave("map_web.png", width = 6, height = 6, dpi = "screen")
 ```
 
 # Adding additional layers: an example with points and polygons (this document)
-
 
 
 ```{r}
@@ -389,6 +390,8 @@ ggsave("grid.pdf", width = 15, height =  5)
 
 
 ## Insets
+
+
 
 
 ```{r}
